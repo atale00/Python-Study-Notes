@@ -1,6 +1,4 @@
 
-# Homework 2
-
 # Question 1
 print '\nQuestion1'
 import random 
