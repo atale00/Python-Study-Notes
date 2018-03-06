@@ -1,7 +1,3 @@
-print '''STSCI 4060 HW1
-Name: Xinyi Liu
-NetID: xl679'''
-
 print '***** Question 1 *****'
 
 print '*part a*'
